@@ -1,0 +1,18 @@
+C:\Users\Serap\Desktop\nesne\proje\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Serap\Desktop\nesne\proje\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\Serap\Desktop\nesne\proje\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Serap\Desktop\nesne\proje\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\nesne\proje\Cinema\Cinema\obj\Debug\Cinema.Form1.resources
+C:\Users\Serap\Desktop\nesne\proje\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\Serap\Desktop\nesne\proje\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\nesne\proje\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\Serap\Desktop\nesne\proje\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Users\Serap\Desktop\Git için\Cinema\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Serap\Desktop\Git için\Cinema\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\Serap\Desktop\Git için\Cinema\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Users\Serap\Desktop\Git için\Cinema\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\Serap\Desktop\Git için\Cinema\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Serap\Desktop\Git için\Cinema\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\Git için\Cinema\Cinema\Cinema\obj\Debug\Cinema.Form1.resources
+C:\Users\Serap\Desktop\Git için\Cinema\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\Serap\Desktop\Git için\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
